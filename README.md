@@ -1,4 +1,4 @@
-# Data-Analysis-ebay-car-Sales
+# Data-Analysis-eBay-Car-Sales
 
 Question 1: What is the most common brands of cars in Germany and their listed average prices?
 
