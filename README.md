@@ -1,12 +1,14 @@
-# Data-Analysis-Used-Cars-in-Germany
+# Data-Analysis-ebay-car-Sales
 
-What are the most popular brands of cars in German? 
+Question 1: What is the most common brands of cars in Germany and their listed average prices?
 
-What are the factors affect the car price? 
+Question 2: Among common brands, are there large differences on kilometer that can affect listing price?
 
-And what are the most expensive are the most expensive cars?
+Question 3: What are the factors that can affect car prices?
 
 This data analysis project will answer those questions
+
+This project uses Python, pandas, matlibplot and seaborn 
 
 All the analysis process are produced by Lu Tang
 
