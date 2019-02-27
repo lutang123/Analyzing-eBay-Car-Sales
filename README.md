@@ -12,5 +12,5 @@ This data analysis project will answer those questions
 
 This project uses Python, pandas, matlibplot and seaborn 
 
-All the analysis process are produced by Lu Tang
+This Project is created by Lu Tang
 
