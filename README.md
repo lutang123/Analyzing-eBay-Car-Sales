@@ -10,7 +10,7 @@ Question 3: What are the factors that can affect car prices?
 
 This data analysis project will answer those questions
 
-This project uses Python, pandas, matlibplot and seaborn 
+This project uses Python, and some of it's library like  pandas, matlibplot and seaborn 
 
 This Project is created by Lu Tang
 
