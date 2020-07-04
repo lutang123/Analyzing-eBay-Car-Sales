@@ -14,3 +14,6 @@ This project uses Python, and some of it's library like  pandas, matlibplot and 
 
 This Project is created by Lu Tang
 
+#### Links for code and analysis result: 
+<a href="https://nbviewer.jupyter.org/github/lutang123/Analyzing-eBay-Car-Sales/blob/master/Data%20Analysis%20for%20eBay%20Car%20Sales%20in%20Germany.ipynb">Analyzing eBay Car Sales</a> 
+
